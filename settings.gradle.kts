@@ -1,4 +1,4 @@
-rootProject.name = "NapoliKmmNotifications"
+rootProject.name = "NapoliNotificationsKmp"
 enableFeaturePreview("TYPESAFE_PROJECT_ACCESSORS")
 
 pluginManagement {
@@ -29,4 +29,4 @@ dependencyResolutionManagement {
     }
 }
 
-include(":notifications")
+include(":notifications-kmp")
